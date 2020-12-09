@@ -1,0 +1,13 @@
+[package]
+name = "repo-parse-rs"
+version = "0.1.0"
+authors = ["Hilmar Gústafsson <LiHRaM@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "repo-parse"
+path = "src/repo-parse.rs"
