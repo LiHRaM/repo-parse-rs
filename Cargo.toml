@@ -1,5 +1,5 @@
 [package]
-name = "repo-parse-rs"
+name = "repo-parse"
 version = "0.1.0"
 authors = ["Hilmar Gústafsson <LiHRaM@users.noreply.github.com>"]
 edition = "2018"
