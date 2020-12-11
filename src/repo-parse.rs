@@ -1,6 +1,6 @@
 use std::{env, ffi::OsStr, path::Path};
 
-use repo_parse_rs::{RepoUrl, parse};
+use repo_parse::{RepoUrl, parse};
 
 fn main() {
     let mut args = env::args();
